@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="custos-java-sdk-1.0-SNAPSHOT-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Airavata_Repository/airavata-custos/custos-client-sdks/custos-java-sdk/target/custos-java-sdk-1.0-SNAPSHOT-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
